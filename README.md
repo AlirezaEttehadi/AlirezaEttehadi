@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**AlirezaEttehadi/AlirezaEttehadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with over 3 years of experience in front-end web development, including React.js and Next.js. Always trying to learn and understand tools and concepts of front-end engineering.
+Passionate about leadership, teamwork, solving problems, business challenges, and coding. interested in JavaScript full-stack development.
+Maintained Vitrin Project with more that 400,000 lines of code and led 3 developers to fix the bugs and creating new features.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies: 
+- Javascript
+- React
+- Next.js
+- Electron.js
+- Redux
+- Redux-Thunk
+- Redux-Saga
+- Material UI
+- Bootstrap
+- Python
+- Git
+- PWA

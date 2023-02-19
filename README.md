@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Ettehadi</h1>
-<h3 align="center">A passionate frontend developer from Tehran/Iran</h3>
+<h3 align="center">A passionate senior frontend developer from Tehran/Iran</h3>
 
 <img src="https://github.com/AlirezaEttehadi/AlirezaEttehadi/blob/main/1639799120134.jpeg" />
 
